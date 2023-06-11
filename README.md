@@ -1,7 +1,7 @@
 # Fine-grained Vision-and-Language Understanding Evaluations
 
 This is the implementation of the approaches described in the paper:
-> Emanuele Bugliarello, Laurent Sartran, Aishwarya Agrawal, Lisa Anne Hendricks and Aida Nematzadeh. [Measuring Progress in Fine-grained Vision-and-Language Understanding](arxiv.org/abs/2305.07558). _In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics_, Jul 2023.
+> Emanuele Bugliarello, Laurent Sartran, Aishwarya Agrawal, Lisa Anne Hendricks and Aida Nematzadeh. [Measuring Progress in Fine-grained Vision-and-Language Understanding](https://arxiv.org/abs/2305.07558). _In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics_, Jul 2023.
 
 We provide the code for reproducing our results on open source models.
 
