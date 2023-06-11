@@ -1,0 +1,1012 @@
+{"label": 1, "score": 0.33457455039024353, "relation": "beside", "id": 0}
+{"label": 0, "score": 0.6203143000602722, "relation": "touching", "id": 1}
+{"label": 1, "score": 0.37317103147506714, "relation": "at the right side of", "id": 2}
+{"label": 0, "score": 0.3049619793891907, "relation": "behind", "id": 3}
+{"label": 1, "score": 0.31643956899642944, "relation": "below", "id": 4}
+{"label": 1, "score": 0.5647528171539307, "relation": "away from", "id": 5}
+{"label": 0, "score": 0.6216591000556946, "relation": "left of", "id": 6}
+{"label": 1, "score": 0.5541186332702637, "relation": "facing away from", "id": 7}
+{"label": 0, "score": 0.5424891114234924, "relation": "on", "id": 8}
+{"label": 0, "score": 0.5361531972885132, "relation": "touching", "id": 9}
+{"label": 0, "score": 0.5553255081176758, "relation": "facing", "id": 10}
+{"label": 1, "score": 0.4383666515350342, "relation": "above", "id": 11}
+{"label": 0, "score": 0.3042314648628235, "relation": "in front of", "id": 12}
+{"label": 0, "score": 0.4875231385231018, "relation": "at the edge of", "id": 13}
+{"label": 1, "score": 0.4060496687889099, "relation": "in front of", "id": 14}
+{"label": 1, "score": 0.40121912956237793, "relation": "behind", "id": 15}
+{"label": 0, "score": 0.48058873414993286, "relation": "under", "id": 16}
+{"label": 1, "score": 0.4306734800338745, "relation": "behind", "id": 17}
+{"label": 1, "score": 0.5361531972885132, "relation": "touching", "id": 18}
+{"label": 0, "score": 0.3877254128456116, "relation": "in the middle of", "id": 19}
+{"label": 0, "score": 0.3856506645679474, "relation": "facing away from", "id": 20}
+{"label": 1, "score": 0.5637314915657043, "relation": "on top of", "id": 21}
+{"label": 0, "score": 0.4348370432853699, "relation": "above", "id": 22}
+{"label": 1, "score": 0.24645739793777466, "relation": "in the middle of", "id": 23}
+{"label": 0, "score": 0.32764676213264465, "relation": "in front of", "id": 24}
+{"label": 1, "score": 0.45142751932144165, "relation": "touching", "id": 25}
+{"label": 1, "score": 0.3496984839439392, "relation": "under", "id": 26}
+{"label": 0, "score": 0.4237867295742035, "relation": "at the edge of", "id": 27}
+{"label": 1, "score": 0.28531521558761597, "relation": "in front of", "id": 28}
+{"label": 1, "score": 0.23078709840774536, "relation": "in front of", "id": 29}
+{"label": 0, "score": 0.5479610562324524, "relation": "beneath", "id": 30}
+{"label": 0, "score": 0.3966101109981537, "relation": "on top of", "id": 31}
+{"label": 1, "score": 0.45049118995666504, "relation": "behind", "id": 32}
+{"label": 0, "score": 0.417825311422348, "relation": "perpendicular to", "id": 33}
+{"label": 1, "score": 0.5209617018699646, "relation": "beneath", "id": 34}
+{"label": 1, "score": 0.49806639552116394, "relation": "under", "id": 35}
+{"label": 0, "score": 0.4182665944099426, "relation": "contains", "id": 36}
+{"label": 0, "score": 0.5008493065834045, "relation": "touching", "id": 37}
+{"label": 1, "score": 0.36805856227874756, "relation": "at the right side of", "id": 38}
+{"label": 0, "score": 0.5210853815078735, "relation": "contains", "id": 39}
+{"label": 1, "score": 0.2879008948802948, "relation": "in", "id": 40}
+{"label": 0, "score": 0.6195045113563538, "relation": "along", "id": 41}
+{"label": 0, "score": 0.3905433714389801, "relation": "facing", "id": 42}
+{"label": 1, "score": 0.44522303342819214, "relation": "in front of", "id": 43}
+{"label": 1, "score": 0.25682106614112854, "relation": "away from", "id": 44}
+{"label": 1, "score": 0.49103450775146484, "relation": "into", "id": 45}
+{"label": 1, "score": 0.5411104559898376, "relation": "on", "id": 46}
+{"label": 0, "score": 0.5390262603759766, "relation": "touching", "id": 47}
+{"label": 0, "score": 0.382345974445343, "relation": "at the left side of", "id": 48}
+{"label": 1, "score": 0.42395520210266113, "relation": "outside", "id": 49}
+{"label": 0, "score": 0.4274236857891083, "relation": "at the right side of", "id": 50}
+{"label": 1, "score": 0.3809052109718323, "relation": "facing", "id": 51}
+{"label": 0, "score": 0.48917773365974426, "relation": "on", "id": 52}
+{"label": 0, "score": 0.4388759136199951, "relation": "at the right side of", "id": 53}
+{"label": 0, "score": 0.5819942355155945, "relation": "touching", "id": 54}
+{"label": 0, "score": 0.5578738451004028, "relation": "past", "id": 55}
+{"label": 1, "score": 0.6045032143592834, "relation": "left of", "id": 56}
+{"label": 1, "score": 0.5074450373649597, "relation": "below", "id": 57}
+{"label": 0, "score": 0.3132627308368683, "relation": "next to", "id": 58}
+{"label": 1, "score": 0.44812899827957153, "relation": "in the middle of", "id": 59}
+{"label": 1, "score": 0.5032640099525452, "relation": "at the right side of", "id": 60}
+{"label": 0, "score": 0.45394396781921387, "relation": "touching", "id": 61}
+{"label": 1, "score": 0.5505820512771606, "relation": "facing away from", "id": 62}
+{"label": 0, "score": 0.5690675973892212, "relation": "on", "id": 63}
+{"label": 1, "score": 0.5628308057785034, "relation": "touching", "id": 64}
+{"label": 0, "score": 0.40656617283821106, "relation": "touching", "id": 65}
+{"label": 1, "score": 0.4134831130504608, "relation": "under", "id": 66}
+{"label": 1, "score": 0.4970858097076416, "relation": "far away from", "id": 67}
+{"label": 1, "score": 0.5469334125518799, "relation": "behind", "id": 68}
+{"label": 0, "score": 0.5544791221618652, "relation": "in front of", "id": 69}
+{"label": 1, "score": 0.5260156393051147, "relation": "on", "id": 70}
+{"label": 1, "score": 0.41122323274612427, "relation": "next to", "id": 71}
+{"label": 0, "score": 0.5383239984512329, "relation": "adjacent to", "id": 72}
+{"label": 0, "score": 0.5074450373649597, "relation": "below", "id": 73}
+{"label": 0, "score": 0.6144066452980042, "relation": "facing", "id": 74}
+{"label": 1, "score": 0.6543445587158203, "relation": "beneath", "id": 75}
+{"label": 0, "score": 0.35377463698387146, "relation": "behind", "id": 76}
+{"label": 0, "score": 0.5551633238792419, "relation": "on", "id": 77}
+{"label": 1, "score": 0.6176494359970093, "relation": "contains", "id": 78}
+{"label": 1, "score": 0.5139240026473999, "relation": "far away from", "id": 79}
+{"label": 1, "score": 0.5151255130767822, "relation": "touching", "id": 80}
+{"label": 1, "score": 0.6369172930717468, "relation": "inside", "id": 81}
+{"label": 1, "score": 0.5705617070198059, "relation": "touching", "id": 82}
+{"label": 0, "score": 0.6135292649269104, "relation": "at the left side of", "id": 83}
+{"label": 0, "score": 0.5454214215278625, "relation": "near", "id": 84}
+{"label": 0, "score": 0.383811891078949, "relation": "in front of", "id": 85}
+{"label": 0, "score": 0.49075600504875183, "relation": "far away from", "id": 86}
+{"label": 1, "score": 0.4822807312011719, "relation": "adjacent to", "id": 87}
+{"label": 0, "score": 0.5197752714157104, "relation": "at the right side of", "id": 88}
+{"label": 1, "score": 0.3911353349685669, "relation": "in", "id": 89}
+{"label": 1, "score": 0.4534790515899658, "relation": "left of", "id": 90}
+{"label": 0, "score": 0.4611048102378845, "relation": "in the middle of", "id": 91}
+{"label": 1, "score": 0.32151809334754944, "relation": "at the edge of", "id": 92}
+{"label": 0, "score": 0.3998924195766449, "relation": "on top of", "id": 93}
+{"label": 1, "score": 0.48613160848617554, "relation": "above", "id": 94}
+{"label": 0, "score": 0.5602848529815674, "relation": "in front of", "id": 95}
+{"label": 0, "score": 0.5990163683891296, "relation": "touching", "id": 96}
+{"label": 1, "score": 0.41420936584472656, "relation": "beneath", "id": 97}
+{"label": 1, "score": 0.4874868392944336, "relation": "parallel to", "id": 98}
+{"label": 0, "score": 0.588104784488678, "relation": "behind", "id": 99}
+{"label": 0, "score": 0.3925003111362457, "relation": "contains", "id": 100}
+{"label": 0, "score": 0.4590742290019989, "relation": "parallel to", "id": 101}
+{"label": 0, "score": 0.5497921109199524, "relation": "inside", "id": 102}
+{"label": 1, "score": 0.30677661299705505, "relation": "under", "id": 103}
+{"label": 0, "score": 0.4675077795982361, "relation": "perpendicular to", "id": 104}
+{"label": 1, "score": 0.5508999228477478, "relation": "perpendicular to", "id": 105}
+{"label": 0, "score": 0.33467939496040344, "relation": "at the right side of", "id": 106}
+{"label": 0, "score": 0.5759104490280151, "relation": "touching", "id": 107}
+{"label": 0, "score": 0.40656617283821106, "relation": "touching", "id": 108}
+{"label": 0, "score": 0.5000402927398682, "relation": "touching", "id": 109}
+{"label": 1, "score": 0.2700982987880707, "relation": "contains", "id": 110}
+{"label": 0, "score": 0.5522373914718628, "relation": "at the left side of", "id": 111}
+{"label": 1, "score": 0.22631216049194336, "relation": "behind", "id": 112}
+{"label": 0, "score": 0.5210853815078735, "relation": "contains", "id": 113}
+{"label": 0, "score": 0.36225050687789917, "relation": "close to", "id": 114}
+{"label": 1, "score": 0.5863896608352661, "relation": "under", "id": 115}
+{"label": 1, "score": 0.5348809957504272, "relation": "far away from", "id": 116}
+{"label": 1, "score": 0.5579231381416321, "relation": "close to", "id": 117}
+{"label": 0, "score": 0.32714301347732544, "relation": "under", "id": 118}
+{"label": 0, "score": 0.5457332730293274, "relation": "in front of", "id": 119}
+{"label": 1, "score": 0.5231139063835144, "relation": "touching", "id": 120}
+{"label": 0, "score": 0.5543811321258545, "relation": "touching", "id": 121}
+{"label": 1, "score": 0.6179291605949402, "relation": "on", "id": 122}
+{"label": 1, "score": 0.6414231657981873, "relation": "facing", "id": 123}
+{"label": 0, "score": 0.34929582476615906, "relation": "in front of", "id": 124}
+{"label": 0, "score": 0.4257667660713196, "relation": "enclosed by", "id": 125}
+{"label": 0, "score": 0.5615761876106262, "relation": "touching", "id": 126}
+{"label": 1, "score": 0.5626929402351379, "relation": "facing", "id": 127}
+{"label": 0, "score": 0.5596588850021362, "relation": "contains", "id": 128}
+{"label": 1, "score": 0.34877604246139526, "relation": "on top of", "id": 129}
+{"label": 1, "score": 0.4086672365665436, "relation": "on top of", "id": 130}
+{"label": 1, "score": 0.4820829927921295, "relation": "touching", "id": 131}
+{"label": 0, "score": 0.4134831130504608, "relation": "under", "id": 132}
+{"label": 0, "score": 0.4415186643600464, "relation": "away from", "id": 133}
+{"label": 0, "score": 0.4585563838481903, "relation": "at the right side of", "id": 134}
+{"label": 0, "score": 0.30581459403038025, "relation": "away from", "id": 135}
+{"label": 0, "score": 0.33872249722480774, "relation": "beneath", "id": 136}
+{"label": 0, "score": 0.4344097375869751, "relation": "toward", "id": 137}
+{"label": 1, "score": 0.5052970051765442, "relation": "in front of", "id": 138}
+{"label": 0, "score": 0.515070915222168, "relation": "near", "id": 139}
+{"label": 1, "score": 0.4849836230278015, "relation": "surrounding", "id": 140}
+{"label": 0, "score": 0.4262169599533081, "relation": "behind", "id": 141}
+{"label": 0, "score": 0.33634838461875916, "relation": "adjacent to", "id": 142}
+{"label": 0, "score": 0.41403254866600037, "relation": "below", "id": 143}
+{"label": 1, "score": 0.44454431533813477, "relation": "close to", "id": 144}
+{"label": 1, "score": 0.383811891078949, "relation": "in front of", "id": 145}
+{"label": 0, "score": 0.4782768785953522, "relation": "part of", "id": 146}
+{"label": 1, "score": 0.4507172107696533, "relation": "in", "id": 147}
+{"label": 1, "score": 0.4487614929676056, "relation": "over", "id": 148}
+{"label": 1, "score": 0.5287746787071228, "relation": "on top of", "id": 149}
+{"label": 0, "score": 0.6179291605949402, "relation": "on", "id": 150}
+{"label": 1, "score": 0.2225688248872757, "relation": "at the side of", "id": 151}
+{"label": 1, "score": 0.42677196860313416, "relation": "under", "id": 152}
+{"label": 1, "score": 0.695073127746582, "relation": "opposite to", "id": 153}
+{"label": 1, "score": 0.6144066452980042, "relation": "facing", "id": 154}
+{"label": 0, "score": 0.3965863287448883, "relation": "next to", "id": 155}
+{"label": 0, "score": 0.4834536910057068, "relation": "right of", "id": 156}
+{"label": 0, "score": 0.5874038934707642, "relation": "in front of", "id": 157}
+{"label": 1, "score": 0.3602842390537262, "relation": "away from", "id": 158}
+{"label": 0, "score": 0.47001758217811584, "relation": "touching", "id": 159}
+{"label": 1, "score": 0.5260156393051147, "relation": "on", "id": 160}
+{"label": 1, "score": 0.37374842166900635, "relation": "left of", "id": 161}
+{"label": 1, "score": 0.3994232416152954, "relation": "in front of", "id": 162}
+{"label": 0, "score": 0.34877604246139526, "relation": "on top of", "id": 163}
+{"label": 1, "score": 0.3965863287448883, "relation": "next to", "id": 164}
+{"label": 1, "score": 0.5656841397285461, "relation": "toward", "id": 165}
+{"label": 1, "score": 0.4473702311515808, "relation": "on", "id": 166}
+{"label": 0, "score": 0.4257014989852905, "relation": "at the left side of", "id": 167}
+{"label": 1, "score": 0.3977896273136139, "relation": "at the edge of", "id": 168}
+{"label": 1, "score": 0.5067497491836548, "relation": "touching", "id": 169}
+{"label": 1, "score": 0.42395520210266113, "relation": "outside", "id": 170}
+{"label": 0, "score": 0.5374454855918884, "relation": "facing away from", "id": 171}
+{"label": 0, "score": 0.4755572974681854, "relation": "under", "id": 172}
+{"label": 1, "score": 0.603373110294342, "relation": "behind", "id": 173}
+{"label": 1, "score": 0.5323000550270081, "relation": "across from", "id": 174}
+{"label": 1, "score": 0.4507172107696533, "relation": "in", "id": 175}
+{"label": 1, "score": 0.48382768034935, "relation": "away from", "id": 176}
+{"label": 0, "score": 0.4991927742958069, "relation": "touching", "id": 177}
+{"label": 0, "score": 0.2736563980579376, "relation": "adjacent to", "id": 178}
+{"label": 1, "score": 0.4617900252342224, "relation": "on", "id": 179}
+{"label": 0, "score": 0.4675009548664093, "relation": "on", "id": 180}
+{"label": 0, "score": 0.33726799488067627, "relation": "at", "id": 181}
+{"label": 0, "score": 0.6359467506408691, "relation": "behind", "id": 182}
+{"label": 1, "score": 0.3932128846645355, "relation": "part of", "id": 183}
+{"label": 1, "score": 0.4983806610107422, "relation": "on top of", "id": 184}
+{"label": 0, "score": 0.4973702132701874, "relation": "inside", "id": 185}
+{"label": 0, "score": 0.4228541851043701, "relation": "at the left side of", "id": 186}
+{"label": 1, "score": 0.5685473680496216, "relation": "contains", "id": 187}
+{"label": 1, "score": 0.35563376545906067, "relation": "under", "id": 188}
+{"label": 1, "score": 0.5809325575828552, "relation": "away from", "id": 189}
+{"label": 0, "score": 0.4507172107696533, "relation": "in", "id": 190}
+{"label": 1, "score": 0.4516972303390503, "relation": "below", "id": 191}
+{"label": 0, "score": 0.4086672365665436, "relation": "on top of", "id": 192}
+{"label": 1, "score": 0.49498531222343445, "relation": "inside", "id": 193}
+{"label": 1, "score": 0.4198593199253082, "relation": "above", "id": 194}
+{"label": 1, "score": 0.4836249053478241, "relation": "on top of", "id": 195}
+{"label": 1, "score": 0.45740991830825806, "relation": "contains", "id": 196}
+{"label": 0, "score": 0.5215250849723816, "relation": "facing", "id": 197}
+{"label": 0, "score": 0.5278918743133545, "relation": "next to", "id": 198}
+{"label": 0, "score": 0.40736711025238037, "relation": "below", "id": 199}
+{"label": 0, "score": 0.38652846217155457, "relation": "touching", "id": 200}
+{"label": 0, "score": 0.49947279691696167, "relation": "below", "id": 201}
+{"label": 1, "score": 0.4023832380771637, "relation": "above", "id": 202}
+{"label": 0, "score": 0.4001571834087372, "relation": "under", "id": 203}
+{"label": 0, "score": 0.47757968306541443, "relation": "behind", "id": 204}
+{"label": 0, "score": 0.3160420358181, "relation": "on", "id": 205}
+{"label": 1, "score": 0.39750730991363525, "relation": "above", "id": 206}
+{"label": 0, "score": 0.5335567593574524, "relation": "touching", "id": 207}
+{"label": 1, "score": 0.5121181607246399, "relation": "touching", "id": 208}
+{"label": 0, "score": 0.5881675481796265, "relation": "touching", "id": 209}
+{"label": 1, "score": 0.4994930624961853, "relation": "behind", "id": 210}
+{"label": 0, "score": 0.5293247699737549, "relation": "behind", "id": 211}
+{"label": 1, "score": 0.315360963344574, "relation": "under", "id": 212}
+{"label": 1, "score": 0.6117690801620483, "relation": "far from", "id": 213}
+{"label": 0, "score": 0.34441569447517395, "relation": "under", "id": 214}
+{"label": 0, "score": 0.34676703810691833, "relation": "at the side of", "id": 215}
+{"label": 0, "score": 0.25326478481292725, "relation": "above", "id": 216}
+{"label": 1, "score": 0.43253475427627563, "relation": "at the left side of", "id": 217}
+{"label": 1, "score": 0.5357322692871094, "relation": "touching", "id": 218}
+{"label": 0, "score": 0.46698638796806335, "relation": "in front of", "id": 219}
+{"label": 0, "score": 0.5895583629608154, "relation": "opposite to", "id": 220}
+{"label": 0, "score": 0.5044525265693665, "relation": "consists of", "id": 221}
+{"label": 1, "score": 0.5050441026687622, "relation": "touching", "id": 222}
+{"label": 1, "score": 0.4449054002761841, "relation": "in front of", "id": 223}
+{"label": 1, "score": 0.5560328364372253, "relation": "at the right side of", "id": 224}
+{"label": 0, "score": 0.5880352258682251, "relation": "in front of", "id": 225}
+{"label": 1, "score": 0.48083484172821045, "relation": "beside", "id": 226}
+{"label": 1, "score": 0.36897674202919006, "relation": "touching", "id": 227}
+{"label": 0, "score": 0.5264003872871399, "relation": "far from", "id": 228}
+{"label": 1, "score": 0.36564579606056213, "relation": "on", "id": 229}
+{"label": 0, "score": 0.4485870897769928, "relation": "on", "id": 230}
+{"label": 0, "score": 0.4510260224342346, "relation": "contains", "id": 231}
+{"label": 0, "score": 0.5209440588951111, "relation": "has as a part", "id": 232}
+{"label": 1, "score": 0.3961501717567444, "relation": "in front of", "id": 233}
+{"label": 0, "score": 0.40666282176971436, "relation": "above", "id": 234}
+{"label": 1, "score": 0.5181028842926025, "relation": "behind", "id": 235}
+{"label": 1, "score": 0.40620097517967224, "relation": "contains", "id": 236}
+{"label": 0, "score": 0.3694218099117279, "relation": "on top of", "id": 237}
+{"label": 1, "score": 0.3749631643295288, "relation": "behind", "id": 238}
+{"label": 0, "score": 0.49103450775146484, "relation": "into", "id": 239}
+{"label": 1, "score": 0.5068671107292175, "relation": "off", "id": 240}
+{"label": 1, "score": 0.45063352584838867, "relation": "facing", "id": 241}
+{"label": 1, "score": 0.4062948524951935, "relation": "part of", "id": 242}
+{"label": 1, "score": 0.5057910084724426, "relation": "next to", "id": 243}
+{"label": 0, "score": 0.37231674790382385, "relation": "touching", "id": 244}
+{"label": 1, "score": 0.34877604246139526, "relation": "on top of", "id": 245}
+{"label": 0, "score": 0.382013201713562, "relation": "on top of", "id": 246}
+{"label": 0, "score": 0.2479768842458725, "relation": "above", "id": 247}
+{"label": 0, "score": 0.4953109323978424, "relation": "at the left side of", "id": 248}
+{"label": 1, "score": 0.5651528835296631, "relation": "facing", "id": 249}
+{"label": 0, "score": 0.2017054706811905, "relation": "in front of", "id": 250}
+{"label": 0, "score": 0.49343037605285645, "relation": "touching", "id": 251}
+{"label": 1, "score": 0.4651474952697754, "relation": "connected to", "id": 252}
+{"label": 1, "score": 0.5654547810554504, "relation": "in front of", "id": 253}
+{"label": 1, "score": 0.40620097517967224, "relation": "contains", "id": 254}
+{"label": 1, "score": 0.4870970845222473, "relation": "next to", "id": 255}
+{"label": 1, "score": 0.4505987763404846, "relation": "outside", "id": 256}
+{"label": 1, "score": 0.33312317728996277, "relation": "down from", "id": 257}
+{"label": 1, "score": 0.3894558846950531, "relation": "perpendicular to", "id": 258}
+{"label": 1, "score": 0.45920220017433167, "relation": "below", "id": 259}
+{"label": 0, "score": 0.5748226046562195, "relation": "at the right side of", "id": 260}
+{"label": 0, "score": 0.503964900970459, "relation": "right of", "id": 261}
+{"label": 1, "score": 0.36236655712127686, "relation": "next to", "id": 262}
+{"label": 0, "score": 0.4199502468109131, "relation": "in front of", "id": 263}
+{"label": 0, "score": 0.5591535568237305, "relation": "behind", "id": 264}
+{"label": 1, "score": 0.5209347605705261, "relation": "parallel to", "id": 265}
+{"label": 1, "score": 0.6325988173484802, "relation": "behind", "id": 266}
+{"label": 1, "score": 0.5841165781021118, "relation": "contains", "id": 267}
+{"label": 0, "score": 0.4664325714111328, "relation": "at the right side of", "id": 268}
+{"label": 1, "score": 0.5769393444061279, "relation": "under", "id": 269}
+{"label": 0, "score": 0.4011530876159668, "relation": "in", "id": 270}
+{"label": 1, "score": 0.6707066297531128, "relation": "far from", "id": 271}
+{"label": 1, "score": 0.3806670308113098, "relation": "on top of", "id": 272}
+{"label": 1, "score": 0.5503309965133667, "relation": "facing away from", "id": 273}
+{"label": 0, "score": 0.4698330760002136, "relation": "at the left side of", "id": 274}
+{"label": 0, "score": 0.4542853832244873, "relation": "facing away from", "id": 275}
+{"label": 1, "score": 0.4189528822898865, "relation": "at the back of", "id": 276}
+{"label": 0, "score": 0.32018962502479553, "relation": "behind", "id": 277}
+{"label": 0, "score": 0.47575610876083374, "relation": "next to", "id": 278}
+{"label": 0, "score": 0.33967462182044983, "relation": "behind", "id": 279}
+{"label": 1, "score": 0.35389697551727295, "relation": "touching", "id": 280}
+{"label": 1, "score": 0.46176689863204956, "relation": "alongside", "id": 281}
+{"label": 0, "score": 0.5050441026687622, "relation": "touching", "id": 282}
+{"label": 0, "score": 0.33872249722480774, "relation": "beneath", "id": 283}
+{"label": 0, "score": 0.6397917866706848, "relation": "toward", "id": 284}
+{"label": 1, "score": 0.5083011984825134, "relation": "far from", "id": 285}
+{"label": 1, "score": 0.3699352741241455, "relation": "surrounding", "id": 286}
+{"label": 1, "score": 0.4840303063392639, "relation": "in front of", "id": 287}
+{"label": 0, "score": 0.46421653032302856, "relation": "at the back of", "id": 288}
+{"label": 0, "score": 0.34877604246139526, "relation": "on top of", "id": 289}
+{"label": 0, "score": 0.5068680644035339, "relation": "at the left side of", "id": 290}
+{"label": 0, "score": 0.6203143000602722, "relation": "touching", "id": 291}
+{"label": 0, "score": 0.6162002682685852, "relation": "on top of", "id": 292}
+{"label": 0, "score": 0.38667723536491394, "relation": "in front of", "id": 293}
+{"label": 1, "score": 0.4023832380771637, "relation": "above", "id": 294}
+{"label": 1, "score": 0.5194621086120605, "relation": "on", "id": 295}
+{"label": 1, "score": 0.6647665500640869, "relation": "facing", "id": 296}
+{"label": 1, "score": 0.4499327838420868, "relation": "behind", "id": 297}
+{"label": 0, "score": 0.45461973547935486, "relation": "inside", "id": 298}
+{"label": 1, "score": 0.4776677191257477, "relation": "right of", "id": 299}
+{"label": 1, "score": 0.4411182999610901, "relation": "left of", "id": 300}
+{"label": 1, "score": 0.45846179127693176, "relation": "far from", "id": 301}
+{"label": 0, "score": 0.4976422190666199, "relation": "in front of", "id": 302}
+{"label": 0, "score": 0.4282044768333435, "relation": "in", "id": 303}
+{"label": 0, "score": 0.2792101800441742, "relation": "far away from", "id": 304}
+{"label": 0, "score": 0.4510260224342346, "relation": "contains", "id": 305}
+{"label": 1, "score": 0.5701911449432373, "relation": "touching", "id": 306}
+{"label": 0, "score": 0.4437987506389618, "relation": "at the edge of", "id": 307}
+{"label": 1, "score": 0.42957910895347595, "relation": "inside", "id": 308}
+{"label": 1, "score": 0.29689672589302063, "relation": "at the right side of", "id": 309}
+{"label": 0, "score": 0.38652846217155457, "relation": "touching", "id": 310}
+{"label": 0, "score": 0.5627821683883667, "relation": "far from", "id": 311}
+{"label": 1, "score": 0.46037307381629944, "relation": "under", "id": 312}
+{"label": 1, "score": 0.44929584860801697, "relation": "in the middle of", "id": 313}
+{"label": 1, "score": 0.37204450368881226, "relation": "on", "id": 314}
+{"label": 0, "score": 0.5197450518608093, "relation": "far away from", "id": 315}
+{"label": 0, "score": 0.538041353225708, "relation": "at the edge of", "id": 316}
+{"label": 1, "score": 0.6331263184547424, "relation": "beneath", "id": 317}
+{"label": 1, "score": 0.3874877691268921, "relation": "surrounding", "id": 318}
+{"label": 1, "score": 0.4199502468109131, "relation": "in front of", "id": 319}
+{"label": 0, "score": 0.3157707154750824, "relation": "at the right side of", "id": 320}
+{"label": 1, "score": 0.3204476535320282, "relation": "on", "id": 321}
+{"label": 1, "score": 0.49073526263237, "relation": "above", "id": 322}
+{"label": 0, "score": 0.5147094130516052, "relation": "on top of", "id": 323}
+{"label": 0, "score": 0.48058873414993286, "relation": "under", "id": 324}
+{"label": 0, "score": 0.4183395206928253, "relation": "touching", "id": 325}
+{"label": 1, "score": 0.467433363199234, "relation": "below", "id": 326}
+{"label": 1, "score": 0.5694560408592224, "relation": "behind", "id": 327}
+{"label": 0, "score": 0.365540087223053, "relation": "behind", "id": 328}
+{"label": 0, "score": 0.35389697551727295, "relation": "touching", "id": 329}
+{"label": 1, "score": 0.3843111991882324, "relation": "under", "id": 330}
+{"label": 1, "score": 0.4023832380771637, "relation": "above", "id": 331}
+{"label": 0, "score": 0.5009728670120239, "relation": "at the right side of", "id": 332}
+{"label": 1, "score": 0.530890703201294, "relation": "contains", "id": 333}
+{"label": 0, "score": 0.5393091440200806, "relation": "touching", "id": 334}
+{"label": 1, "score": 0.5900050401687622, "relation": "in front of", "id": 335}
+{"label": 1, "score": 0.4163721203804016, "relation": "in front of", "id": 336}
+{"label": 0, "score": 0.4875231385231018, "relation": "at the edge of", "id": 337}
+{"label": 1, "score": 0.6203143000602722, "relation": "touching", "id": 338}
+{"label": 1, "score": 0.45142751932144165, "relation": "touching", "id": 339}
+{"label": 1, "score": 0.4217793643474579, "relation": "touching", "id": 340}
+{"label": 1, "score": 0.48332950472831726, "relation": "behind", "id": 341}
+{"label": 0, "score": 0.3572019338607788, "relation": "beside", "id": 342}
+{"label": 0, "score": 0.4352279007434845, "relation": "at the left side of", "id": 343}
+{"label": 0, "score": 0.6277317404747009, "relation": "right of", "id": 344}
+{"label": 0, "score": 0.38614535331726074, "relation": "connected to", "id": 345}
+{"label": 0, "score": 0.3225438892841339, "relation": "at the back of", "id": 346}
+{"label": 1, "score": 0.4257014989852905, "relation": "at the left side of", "id": 347}
+{"label": 0, "score": 0.4879463315010071, "relation": "facing away from", "id": 348}
+{"label": 1, "score": 0.36352041363716125, "relation": "facing", "id": 349}
+{"label": 1, "score": 0.4306522607803345, "relation": "next to", "id": 350}
+{"label": 0, "score": 0.5186853408813477, "relation": "behind", "id": 351}
+{"label": 1, "score": 0.48967668414115906, "relation": "under", "id": 352}
+{"label": 0, "score": 0.35563376545906067, "relation": "under", "id": 353}
+{"label": 0, "score": 0.5309767723083496, "relation": "far from", "id": 354}
+{"label": 1, "score": 0.3013317883014679, "relation": "beside", "id": 355}
+{"label": 0, "score": 0.604925274848938, "relation": "contains", "id": 356}
+{"label": 0, "score": 0.5630919337272644, "relation": "beside", "id": 357}
+{"label": 1, "score": 0.4706389904022217, "relation": "into", "id": 358}
+{"label": 0, "score": 0.3514443039894104, "relation": "near", "id": 359}
+{"label": 1, "score": 0.5155691504478455, "relation": "contains", "id": 360}
+{"label": 0, "score": 0.39288514852523804, "relation": "at the edge of", "id": 361}
+{"label": 1, "score": 0.5769393444061279, "relation": "under", "id": 362}
+{"label": 0, "score": 0.45422497391700745, "relation": "beside", "id": 363}
+{"label": 1, "score": 0.5049828886985779, "relation": "far away from", "id": 364}
+{"label": 0, "score": 0.5250306129455566, "relation": "far away from", "id": 365}
+{"label": 1, "score": 0.5181028842926025, "relation": "behind", "id": 366}
+{"label": 1, "score": 0.5758317708969116, "relation": "touching", "id": 367}
+{"label": 1, "score": 0.578538715839386, "relation": "off", "id": 368}
+{"label": 1, "score": 0.3885733485221863, "relation": "connected to", "id": 369}
+{"label": 0, "score": 0.5698067545890808, "relation": "close to", "id": 370}
+{"label": 0, "score": 0.38383790850639343, "relation": "on top of", "id": 371}
+{"label": 1, "score": 0.4801552891731262, "relation": "close to", "id": 372}
+{"label": 0, "score": 0.47535771131515503, "relation": "away from", "id": 373}
+{"label": 1, "score": 0.4908084273338318, "relation": "under", "id": 374}
+{"label": 1, "score": 0.45922109484672546, "relation": "across from", "id": 375}
+{"label": 0, "score": 0.4266030490398407, "relation": "touching", "id": 376}
+{"label": 1, "score": 0.5880352258682251, "relation": "in front of", "id": 377}
+{"label": 1, "score": 0.4908961355686188, "relation": "contains", "id": 378}
+{"label": 1, "score": 0.41318395733833313, "relation": "left of", "id": 379}
+{"label": 1, "score": 0.47868961095809937, "relation": "on top of", "id": 380}
+{"label": 0, "score": 0.34441569447517395, "relation": "under", "id": 381}
+{"label": 1, "score": 0.5067497491836548, "relation": "touching", "id": 382}
+{"label": 1, "score": 0.4985201358795166, "relation": "inside", "id": 383}
+{"label": 1, "score": 0.550809919834137, "relation": "touching", "id": 384}
+{"label": 1, "score": 0.3157707154750824, "relation": "at the right side of", "id": 385}
+{"label": 0, "score": 0.4187583327293396, "relation": "in front of", "id": 386}
+{"label": 1, "score": 0.31253480911254883, "relation": "beside", "id": 387}
+{"label": 0, "score": 0.4326673746109009, "relation": "touching", "id": 388}
+{"label": 1, "score": 0.6381213665008545, "relation": "on", "id": 389}
+{"label": 1, "score": 0.437837690114975, "relation": "off", "id": 390}
+{"label": 0, "score": 0.6127066016197205, "relation": "left of", "id": 391}
+{"label": 0, "score": 0.4592713415622711, "relation": "above", "id": 392}
+{"label": 1, "score": 0.5698067545890808, "relation": "close to", "id": 393}
+{"label": 0, "score": 0.5572597980499268, "relation": "consists of", "id": 394}
+{"label": 1, "score": 0.49753785133361816, "relation": "touching", "id": 395}
+{"label": 0, "score": 0.5053918361663818, "relation": "in front of", "id": 396}
+{"label": 1, "score": 0.5462462902069092, "relation": "right of", "id": 397}
+{"label": 1, "score": 0.5834251046180725, "relation": "facing", "id": 398}
+{"label": 1, "score": 0.46490049362182617, "relation": "at the edge of", "id": 399}
+{"label": 1, "score": 0.538041353225708, "relation": "at the edge of", "id": 400}
+{"label": 0, "score": 0.28417378664016724, "relation": "in", "id": 401}
+{"label": 0, "score": 0.4617663621902466, "relation": "facing away from", "id": 402}
+{"label": 0, "score": 0.5701911449432373, "relation": "touching", "id": 403}
+{"label": 1, "score": 0.42605677247047424, "relation": "under", "id": 404}
+{"label": 1, "score": 0.4864563047885895, "relation": "at the right side of", "id": 405}
+{"label": 0, "score": 0.4420031011104584, "relation": "under", "id": 406}
+{"label": 0, "score": 0.5248097777366638, "relation": "touching", "id": 407}
+{"label": 0, "score": 0.46644750237464905, "relation": "close to", "id": 408}
+{"label": 0, "score": 0.48939695954322815, "relation": "in front of", "id": 409}
+{"label": 1, "score": 0.5024649500846863, "relation": "beneath", "id": 410}
+{"label": 1, "score": 0.3446227014064789, "relation": "touching", "id": 411}
+{"label": 1, "score": 0.38506177067756653, "relation": "below", "id": 412}
+{"label": 1, "score": 0.42205145955085754, "relation": "under", "id": 413}
+{"label": 1, "score": 0.48058873414993286, "relation": "under", "id": 414}
+{"label": 1, "score": 0.6265037059783936, "relation": "in front of", "id": 415}
+{"label": 0, "score": 0.4671343266963959, "relation": "contains", "id": 416}
+{"label": 0, "score": 0.6381213665008545, "relation": "on", "id": 417}
+{"label": 0, "score": 0.6103598475456238, "relation": "in front of", "id": 418}
+{"label": 1, "score": 0.34573042392730713, "relation": "behind", "id": 419}
+{"label": 1, "score": 0.47327011823654175, "relation": "at the side of", "id": 420}
+{"label": 1, "score": 0.5084328651428223, "relation": "at the edge of", "id": 421}
+{"label": 0, "score": 0.3869130611419678, "relation": "contains", "id": 422}
+{"label": 0, "score": 0.41079095005989075, "relation": "adjacent to", "id": 423}
+{"label": 0, "score": 0.4617844223976135, "relation": "right of", "id": 424}
+{"label": 1, "score": 0.5567943453788757, "relation": "inside", "id": 425}
+{"label": 0, "score": 0.5746697783470154, "relation": "beneath", "id": 426}
+{"label": 1, "score": 0.5683576464653015, "relation": "far from", "id": 427}
+{"label": 0, "score": 0.6312326192855835, "relation": "beside", "id": 428}
+{"label": 1, "score": 0.37559664249420166, "relation": "under", "id": 429}
+{"label": 0, "score": 0.4841687083244324, "relation": "far away from", "id": 430}
+{"label": 0, "score": 0.45185554027557373, "relation": "below", "id": 431}
+{"label": 0, "score": 0.5153738260269165, "relation": "far away from", "id": 432}
+{"label": 1, "score": 0.43645966053009033, "relation": "near", "id": 433}
+{"label": 0, "score": 0.5365474820137024, "relation": "touching", "id": 434}
+{"label": 0, "score": 0.4879920780658722, "relation": "in", "id": 435}
+{"label": 1, "score": 0.5376687049865723, "relation": "enclosed by", "id": 436}
+{"label": 1, "score": 0.48733291029930115, "relation": "on", "id": 437}
+{"label": 1, "score": 0.5432805418968201, "relation": "at the right side of", "id": 438}
+{"label": 0, "score": 0.5339208245277405, "relation": "in front of", "id": 439}
+{"label": 0, "score": 0.5157201290130615, "relation": "next to", "id": 440}
+{"label": 1, "score": 0.4065881669521332, "relation": "in", "id": 441}
+{"label": 0, "score": 0.6438798308372498, "relation": "above", "id": 442}
+{"label": 0, "score": 0.3393913209438324, "relation": "above", "id": 443}
+{"label": 0, "score": 0.3972700536251068, "relation": "touching", "id": 444}
+{"label": 1, "score": 0.49062907695770264, "relation": "touching", "id": 445}
+{"label": 1, "score": 0.4219924509525299, "relation": "enclosed by", "id": 446}
+{"label": 0, "score": 0.42269617319107056, "relation": "in front of", "id": 447}
+{"label": 1, "score": 0.37231674790382385, "relation": "touching", "id": 448}
+{"label": 1, "score": 0.5568989515304565, "relation": "next to", "id": 449}
+{"label": 1, "score": 0.5134128332138062, "relation": "in", "id": 450}
+{"label": 0, "score": 0.3096465468406677, "relation": "below", "id": 451}
+{"label": 1, "score": 0.4056303799152374, "relation": "inside", "id": 452}
+{"label": 0, "score": 0.2828443944454193, "relation": "far away from", "id": 453}
+{"label": 1, "score": 0.5987505912780762, "relation": "contains", "id": 454}
+{"label": 1, "score": 0.4863329529762268, "relation": "left of", "id": 455}
+{"label": 0, "score": 0.37681514024734497, "relation": "in front of", "id": 456}
+{"label": 1, "score": 0.546281635761261, "relation": "touching", "id": 457}
+{"label": 1, "score": 0.36770007014274597, "relation": "in front of", "id": 458}
+{"label": 0, "score": 0.5227454304695129, "relation": "behind", "id": 459}
+{"label": 1, "score": 0.40620097517967224, "relation": "contains", "id": 460}
+{"label": 1, "score": 0.3730567395687103, "relation": "perpendicular to", "id": 461}
+{"label": 0, "score": 0.535207211971283, "relation": "at the right side of", "id": 462}
+{"label": 0, "score": 0.448135107755661, "relation": "touching", "id": 463}
+{"label": 1, "score": 0.5012386441230774, "relation": "left of", "id": 464}
+{"label": 1, "score": 0.4408884644508362, "relation": "beside", "id": 465}
+{"label": 1, "score": 0.6608787775039673, "relation": "facing", "id": 466}
+{"label": 0, "score": 0.40778446197509766, "relation": "at the left side of", "id": 467}
+{"label": 0, "score": 0.5805504322052002, "relation": "behind", "id": 468}
+{"label": 0, "score": 0.6144066452980042, "relation": "facing", "id": 469}
+{"label": 1, "score": 0.47185519337654114, "relation": "on", "id": 470}
+{"label": 0, "score": 0.5275618433952332, "relation": "below", "id": 471}
+{"label": 0, "score": 0.5257278084754944, "relation": "behind", "id": 472}
+{"label": 0, "score": 0.5203883051872253, "relation": "in front of", "id": 473}
+{"label": 1, "score": 0.5244322419166565, "relation": "close to", "id": 474}
+{"label": 0, "score": 0.5190882086753845, "relation": "touching", "id": 475}
+{"label": 0, "score": 0.5956204533576965, "relation": "consists of", "id": 476}
+{"label": 0, "score": 0.576690673828125, "relation": "part of", "id": 477}
+{"label": 1, "score": 0.39288514852523804, "relation": "at the edge of", "id": 478}
+{"label": 1, "score": 0.3512098789215088, "relation": "in front of", "id": 479}
+{"label": 1, "score": 0.3966101109981537, "relation": "on top of", "id": 480}
+{"label": 1, "score": 0.33266451954841614, "relation": "beneath", "id": 481}
+{"label": 0, "score": 0.5546891689300537, "relation": "at the back of", "id": 482}
+{"label": 0, "score": 0.34587377309799194, "relation": "at the left side of", "id": 483}
+{"label": 0, "score": 0.5456951856613159, "relation": "touching", "id": 484}
+{"label": 1, "score": 0.5260156393051147, "relation": "on", "id": 485}
+{"label": 0, "score": 0.5446715950965881, "relation": "touching", "id": 486}
+{"label": 0, "score": 0.4205482304096222, "relation": "touching", "id": 487}
+{"label": 1, "score": 0.37580186128616333, "relation": "across from", "id": 488}
+{"label": 0, "score": 0.30484315752983093, "relation": "facing", "id": 489}
+{"label": 0, "score": 0.4325825572013855, "relation": "at the right side of", "id": 490}
+{"label": 0, "score": 0.24132701754570007, "relation": "in front of", "id": 491}
+{"label": 1, "score": 0.45377054810523987, "relation": "behind", "id": 492}
+{"label": 0, "score": 0.5465322136878967, "relation": "far away from", "id": 493}
+{"label": 1, "score": 0.5371546745300293, "relation": "behind", "id": 494}
+{"label": 1, "score": 0.34878551959991455, "relation": "at the left side of", "id": 495}
+{"label": 1, "score": 0.5131394267082214, "relation": "at the right side of", "id": 496}
+{"label": 1, "score": 0.42492055892944336, "relation": "over", "id": 497}
+{"label": 1, "score": 0.4370190501213074, "relation": "under", "id": 498}
+{"label": 1, "score": 0.4047185480594635, "relation": "contains", "id": 499}
+{"label": 1, "score": 0.6126279830932617, "relation": "facing", "id": 500}
+{"label": 0, "score": 0.5956584811210632, "relation": "at the right side of", "id": 501}
+{"label": 1, "score": 0.604925274848938, "relation": "contains", "id": 502}
+{"label": 1, "score": 0.38770410418510437, "relation": "at the right side of", "id": 503}
+{"label": 1, "score": 0.4261256158351898, "relation": "at the left side of", "id": 504}
+{"label": 1, "score": 0.49622052907943726, "relation": "beyond", "id": 505}
+{"label": 0, "score": 0.4244701862335205, "relation": "part of", "id": 506}
+{"label": 0, "score": 0.4706389904022217, "relation": "into", "id": 507}
+{"label": 1, "score": 0.3102380037307739, "relation": "on", "id": 508}
+{"label": 0, "score": 0.4246419370174408, "relation": "beneath", "id": 509}
+{"label": 1, "score": 0.39163273572921753, "relation": "by", "id": 510}
+{"label": 0, "score": 0.46319013833999634, "relation": "by", "id": 511}
+{"label": 1, "score": 0.38889315724372864, "relation": "behind", "id": 512}
+{"label": 0, "score": 0.5266942977905273, "relation": "near", "id": 513}
+{"label": 1, "score": 0.4280030131340027, "relation": "under", "id": 514}
+{"label": 1, "score": 0.49868521094322205, "relation": "touching", "id": 515}
+{"label": 0, "score": 0.5936822295188904, "relation": "on top of", "id": 516}
+{"label": 0, "score": 0.4032948911190033, "relation": "enclosed by", "id": 517}
+{"label": 0, "score": 0.4464675784111023, "relation": "within", "id": 518}
+{"label": 0, "score": 0.36897674202919006, "relation": "touching", "id": 519}
+{"label": 0, "score": 0.5470842719078064, "relation": "touching", "id": 520}
+{"label": 0, "score": 0.3807648718357086, "relation": "ahead of", "id": 521}
+{"label": 0, "score": 0.4015923738479614, "relation": "at the right side of", "id": 522}
+{"label": 1, "score": 0.45365452766418457, "relation": "behind", "id": 523}
+{"label": 0, "score": 0.6131791472434998, "relation": "touching", "id": 524}
+{"label": 1, "score": 0.5761678218841553, "relation": "on", "id": 525}
+{"label": 1, "score": 0.45616668462753296, "relation": "at the edge of", "id": 526}
+{"label": 0, "score": 0.442615807056427, "relation": "at the right side of", "id": 527}
+{"label": 0, "score": 0.5960254669189453, "relation": "touching", "id": 528}
+{"label": 0, "score": 0.4065881669521332, "relation": "in", "id": 529}
+{"label": 0, "score": 0.46490049362182617, "relation": "at the edge of", "id": 530}
+{"label": 0, "score": 0.5693269371986389, "relation": "on", "id": 531}
+{"label": 1, "score": 0.5987134575843811, "relation": "near", "id": 532}
+{"label": 1, "score": 0.3925003111362457, "relation": "contains", "id": 533}
+{"label": 1, "score": 0.31681445240974426, "relation": "at the right side of", "id": 534}
+{"label": 0, "score": 0.47200092673301697, "relation": "at the edge of", "id": 535}
+{"label": 0, "score": 0.4487614929676056, "relation": "over", "id": 536}
+{"label": 1, "score": 0.4062153398990631, "relation": "outside", "id": 537}
+{"label": 1, "score": 0.4239167869091034, "relation": "on top of", "id": 538}
+{"label": 1, "score": 0.4205482304096222, "relation": "touching", "id": 539}
+{"label": 1, "score": 0.4168950319290161, "relation": "next to", "id": 540}
+{"label": 1, "score": 0.5163098573684692, "relation": "above", "id": 541}
+{"label": 1, "score": 0.5803329944610596, "relation": "at the left side of", "id": 542}
+{"label": 1, "score": 0.5706406235694885, "relation": "left of", "id": 543}
+{"label": 0, "score": 0.581601083278656, "relation": "on", "id": 544}
+{"label": 0, "score": 0.37681514024734497, "relation": "in front of", "id": 545}
+{"label": 0, "score": 0.5888335108757019, "relation": "at the edge of", "id": 546}
+{"label": 1, "score": 0.4117647111415863, "relation": "below", "id": 547}
+{"label": 1, "score": 0.48744210600852966, "relation": "facing away from", "id": 548}
+{"label": 1, "score": 0.6483795642852783, "relation": "right of", "id": 549}
+{"label": 0, "score": 0.5218587517738342, "relation": "near", "id": 550}
+{"label": 0, "score": 0.6203143000602722, "relation": "touching", "id": 551}
+{"label": 0, "score": 0.4744004011154175, "relation": "at the left side of", "id": 552}
+{"label": 1, "score": 0.46727168560028076, "relation": "beside", "id": 553}
+{"label": 1, "score": 0.4464960992336273, "relation": "far away from", "id": 554}
+{"label": 1, "score": 0.3674878776073456, "relation": "on top of", "id": 555}
+{"label": 1, "score": 0.4445137083530426, "relation": "left of", "id": 556}
+{"label": 0, "score": 0.4700355529785156, "relation": "beside", "id": 557}
+{"label": 1, "score": 0.5095630288124084, "relation": "on", "id": 558}
+{"label": 1, "score": 0.42601117491722107, "relation": "behind", "id": 559}
+{"label": 1, "score": 0.4391956329345703, "relation": "beneath", "id": 560}
+{"label": 1, "score": 0.4317623972892761, "relation": "touching", "id": 561}
+{"label": 1, "score": 0.43892788887023926, "relation": "at the edge of", "id": 562}
+{"label": 0, "score": 0.5667538046836853, "relation": "in", "id": 563}
+{"label": 0, "score": 0.39456287026405334, "relation": "alongside", "id": 564}
+{"label": 0, "score": 0.490092396736145, "relation": "touching", "id": 565}
+{"label": 0, "score": 0.3199348747730255, "relation": "on top of", "id": 566}
+{"label": 1, "score": 0.4156355559825897, "relation": "above", "id": 567}
+{"label": 1, "score": 0.39758819341659546, "relation": "on", "id": 568}
+{"label": 0, "score": 0.46455782651901245, "relation": "in front of", "id": 569}
+{"label": 1, "score": 0.26242613792419434, "relation": "beneath", "id": 570}
+{"label": 0, "score": 0.4056303799152374, "relation": "inside", "id": 571}
+{"label": 1, "score": 0.5474749803543091, "relation": "on", "id": 572}
+{"label": 0, "score": 0.4053821265697479, "relation": "at the right side of", "id": 573}
+{"label": 0, "score": 0.36151668429374695, "relation": "in front of", "id": 574}
+{"label": 1, "score": 0.5045665502548218, "relation": "next to", "id": 575}
+{"label": 1, "score": 0.35988977551460266, "relation": "touching", "id": 576}
+{"label": 0, "score": 0.44525784254074097, "relation": "on top of", "id": 577}
+{"label": 1, "score": 0.4737822711467743, "relation": "facing", "id": 578}
+{"label": 1, "score": 0.4908493459224701, "relation": "touching", "id": 579}
+{"label": 0, "score": 0.4966583251953125, "relation": "at the left side of", "id": 580}
+{"label": 0, "score": 0.5292775630950928, "relation": "under", "id": 581}
+{"label": 1, "score": 0.3925003111362457, "relation": "contains", "id": 582}
+{"label": 1, "score": 0.4174138307571411, "relation": "off", "id": 583}
+{"label": 0, "score": 0.3512098789215088, "relation": "in front of", "id": 584}
+{"label": 0, "score": 0.5019509792327881, "relation": "left of", "id": 585}
+{"label": 0, "score": 0.46246397495269775, "relation": "facing", "id": 586}
+{"label": 1, "score": 0.514086127281189, "relation": "below", "id": 587}
+{"label": 1, "score": 0.45318639278411865, "relation": "below", "id": 588}
+{"label": 0, "score": 0.3207716941833496, "relation": "at the edge of", "id": 589}
+{"label": 0, "score": 0.5700423121452332, "relation": "below", "id": 590}
+{"label": 0, "score": 0.3880602717399597, "relation": "inside", "id": 591}
+{"label": 0, "score": 0.6687362194061279, "relation": "on", "id": 592}
+{"label": 1, "score": 0.3368628919124603, "relation": "surrounding", "id": 593}
+{"label": 0, "score": 0.347700297832489, "relation": "under", "id": 594}
+{"label": 0, "score": 0.4417019188404083, "relation": "across", "id": 595}
+{"label": 1, "score": 0.5956584811210632, "relation": "at the right side of", "id": 596}
+{"label": 1, "score": 0.5005404949188232, "relation": "against", "id": 597}
+{"label": 0, "score": 0.27217262983322144, "relation": "on", "id": 598}
+{"label": 0, "score": 0.5050441026687622, "relation": "touching", "id": 599}
+{"label": 1, "score": 0.471521258354187, "relation": "at the right side of", "id": 600}
+{"label": 1, "score": 0.4528774619102478, "relation": "above", "id": 601}
+{"label": 0, "score": 0.3497130870819092, "relation": "parallel to", "id": 602}
+{"label": 0, "score": 0.4185756742954254, "relation": "part of", "id": 603}
+{"label": 0, "score": 0.4687875509262085, "relation": "contains", "id": 604}
+{"label": 0, "score": 0.5029237866401672, "relation": "in front of", "id": 605}
+{"label": 1, "score": 0.5425950884819031, "relation": "across from", "id": 606}
+{"label": 0, "score": 0.5524379014968872, "relation": "in", "id": 607}
+{"label": 1, "score": 0.3947502076625824, "relation": "adjacent to", "id": 608}
+{"label": 1, "score": 0.44374632835388184, "relation": "behind", "id": 609}
+{"label": 1, "score": 0.39822036027908325, "relation": "under", "id": 610}
+{"label": 1, "score": 0.32682177424430847, "relation": "on top of", "id": 611}
+{"label": 0, "score": 0.5524379014968872, "relation": "in", "id": 612}
+{"label": 0, "score": 0.7118604183197021, "relation": "surrounding", "id": 613}
+{"label": 0, "score": 0.38902294635772705, "relation": "on top of", "id": 614}
+{"label": 1, "score": 0.5068792700767517, "relation": "on", "id": 615}
+{"label": 0, "score": 0.2809593975543976, "relation": "left of", "id": 616}
+{"label": 0, "score": 0.333979994058609, "relation": "on top of", "id": 617}
+{"label": 0, "score": 0.45950156450271606, "relation": "touching", "id": 618}
+{"label": 1, "score": 0.47533246874809265, "relation": "consists of", "id": 619}
+{"label": 1, "score": 0.4170868992805481, "relation": "in", "id": 620}
+{"label": 1, "score": 0.3109125792980194, "relation": "beneath", "id": 621}
+{"label": 1, "score": 0.4603877067565918, "relation": "beside", "id": 622}
+{"label": 0, "score": 0.315360963344574, "relation": "under", "id": 623}
+{"label": 1, "score": 0.4406825602054596, "relation": "contains", "id": 624}
+{"label": 0, "score": 0.5497410297393799, "relation": "perpendicular to", "id": 625}
+{"label": 1, "score": 0.6051558256149292, "relation": "with", "id": 626}
+{"label": 1, "score": 0.5285300016403198, "relation": "at the right side of", "id": 627}
+{"label": 1, "score": 0.5026440620422363, "relation": "toward", "id": 628}
+{"label": 1, "score": 0.6406648755073547, "relation": "touching", "id": 629}
+{"label": 1, "score": 0.5716025233268738, "relation": "away from", "id": 630}
+{"label": 0, "score": 0.4472331404685974, "relation": "next to", "id": 631}
+{"label": 1, "score": 0.5784416198730469, "relation": "parallel to", "id": 632}
+{"label": 0, "score": 0.47479546070098877, "relation": "beneath", "id": 633}
+{"label": 1, "score": 0.5374454855918884, "relation": "facing away from", "id": 634}
+{"label": 1, "score": 0.2604605555534363, "relation": "under", "id": 635}
+{"label": 0, "score": 0.5029237866401672, "relation": "in front of", "id": 636}
+{"label": 1, "score": 0.4418879449367523, "relation": "behind", "id": 637}
+{"label": 1, "score": 0.2479768842458725, "relation": "above", "id": 638}
+{"label": 0, "score": 0.4508574903011322, "relation": "on top of", "id": 639}
+{"label": 0, "score": 0.4294121563434601, "relation": "above", "id": 640}
+{"label": 0, "score": 0.4396229088306427, "relation": "under", "id": 641}
+{"label": 0, "score": 0.3509730398654938, "relation": "behind", "id": 642}
+{"label": 1, "score": 0.47460055351257324, "relation": "perpendicular to", "id": 643}
+{"label": 0, "score": 0.46707019209861755, "relation": "at the right side of", "id": 644}
+{"label": 1, "score": 0.3940625786781311, "relation": "next to", "id": 645}
+{"label": 1, "score": 0.45564931631088257, "relation": "under", "id": 646}
+{"label": 1, "score": 0.5541625618934631, "relation": "right of", "id": 647}
+{"label": 0, "score": 0.6422510147094727, "relation": "part of", "id": 648}
+{"label": 0, "score": 0.5583399534225464, "relation": "touching", "id": 649}
+{"label": 1, "score": 0.4790581166744232, "relation": "between", "id": 650}
+{"label": 1, "score": 0.3473391532897949, "relation": "on top of", "id": 651}
+{"label": 1, "score": 0.5236144065856934, "relation": "far away from", "id": 652}
+{"label": 0, "score": 0.5346000790596008, "relation": "on", "id": 653}
+{"label": 1, "score": 0.5053589344024658, "relation": "at the right side of", "id": 654}
+{"label": 1, "score": 0.49405819177627563, "relation": "in front of", "id": 655}
+{"label": 0, "score": 0.5415242314338684, "relation": "touching", "id": 656}
+{"label": 1, "score": 0.5479157567024231, "relation": "above", "id": 657}
+{"label": 0, "score": 0.3568274676799774, "relation": "in front of", "id": 658}
+{"label": 0, "score": 0.40491706132888794, "relation": "facing away from", "id": 659}
+{"label": 1, "score": 0.4718373715877533, "relation": "beneath", "id": 660}
+{"label": 0, "score": 0.4710637927055359, "relation": "left of", "id": 661}
+{"label": 0, "score": 0.46941113471984863, "relation": "far from", "id": 662}
+{"label": 1, "score": 0.5598061680793762, "relation": "on top of", "id": 663}
+{"label": 0, "score": 0.4850926101207733, "relation": "above", "id": 664}
+{"label": 0, "score": 0.6435979604721069, "relation": "inside", "id": 665}
+{"label": 0, "score": 0.2678563594818115, "relation": "beneath", "id": 666}
+{"label": 0, "score": 0.4267179071903229, "relation": "under", "id": 667}
+{"label": 0, "score": 0.5677021741867065, "relation": "above", "id": 668}
+{"label": 1, "score": 0.4295124411582947, "relation": "right of", "id": 669}
+{"label": 0, "score": 0.5113576054573059, "relation": "far away from", "id": 670}
+{"label": 0, "score": 0.4505505859851837, "relation": "above", "id": 671}
+{"label": 1, "score": 0.4850926101207733, "relation": "above", "id": 672}
+{"label": 1, "score": 0.5038372874259949, "relation": "far from", "id": 673}
+{"label": 1, "score": 0.5320703983306885, "relation": "close to", "id": 674}
+{"label": 1, "score": 0.4984780550003052, "relation": "far away from", "id": 675}
+{"label": 0, "score": 0.6743106842041016, "relation": "facing away from", "id": 676}
+{"label": 1, "score": 0.45394396781921387, "relation": "touching", "id": 677}
+{"label": 1, "score": 0.4034656882286072, "relation": "inside", "id": 678}
+{"label": 1, "score": 0.5756117105484009, "relation": "down from", "id": 679}
+{"label": 1, "score": 0.33362194895744324, "relation": "at the left side of", "id": 680}
+{"label": 1, "score": 0.578268826007843, "relation": "touching", "id": 681}
+{"label": 0, "score": 0.5372809171676636, "relation": "left of", "id": 682}
+{"label": 1, "score": 0.4705703556537628, "relation": "behind", "id": 683}
+{"label": 1, "score": 0.4675077795982361, "relation": "perpendicular to", "id": 684}
+{"label": 1, "score": 0.42218124866485596, "relation": "within", "id": 685}
+{"label": 1, "score": 0.44373437762260437, "relation": "at the right side of", "id": 686}
+{"label": 0, "score": 0.4991927742958069, "relation": "touching", "id": 687}
+{"label": 1, "score": 0.4578337073326111, "relation": "at the right side of", "id": 688}
+{"label": 1, "score": 0.36897674202919006, "relation": "touching", "id": 689}
+{"label": 1, "score": 0.49343037605285645, "relation": "touching", "id": 690}
+{"label": 0, "score": 0.40580037236213684, "relation": "under", "id": 691}
+{"label": 1, "score": 0.5393091440200806, "relation": "touching", "id": 692}
+{"label": 0, "score": 0.5642500519752502, "relation": "at the right side of", "id": 693}
+{"label": 1, "score": 0.5663219094276428, "relation": "on", "id": 694}
+{"label": 0, "score": 0.4970858097076416, "relation": "far away from", "id": 695}
+{"label": 1, "score": 0.4473112225532532, "relation": "connected to", "id": 696}
+{"label": 1, "score": 0.530841588973999, "relation": "beside", "id": 697}
+{"label": 1, "score": 0.2957446873188019, "relation": "touching", "id": 698}
+{"label": 1, "score": 0.3069396913051605, "relation": "on", "id": 699}
+{"label": 0, "score": 0.4331969916820526, "relation": "inside", "id": 700}
+{"label": 1, "score": 0.5596588850021362, "relation": "contains", "id": 701}
+{"label": 1, "score": 0.4435248076915741, "relation": "far from", "id": 702}
+{"label": 1, "score": 0.35496294498443604, "relation": "around", "id": 703}
+{"label": 1, "score": 0.6180270314216614, "relation": "right of", "id": 704}
+{"label": 1, "score": 0.3615384101867676, "relation": "in the middle of", "id": 705}
+{"label": 1, "score": 0.38383790850639343, "relation": "on top of", "id": 706}
+{"label": 0, "score": 0.5260156393051147, "relation": "on", "id": 707}
+{"label": 1, "score": 0.42912670969963074, "relation": "behind", "id": 708}
+{"label": 0, "score": 0.5047752261161804, "relation": "beside", "id": 709}
+{"label": 1, "score": 0.4770016074180603, "relation": "behind", "id": 710}
+{"label": 1, "score": 0.47383660078048706, "relation": "below", "id": 711}
+{"label": 0, "score": 0.36805856227874756, "relation": "at the right side of", "id": 712}
+{"label": 0, "score": 0.4707840383052826, "relation": "ahead of", "id": 713}
+{"label": 0, "score": 0.5234091877937317, "relation": "touching", "id": 714}
+{"label": 1, "score": 0.3750275671482086, "relation": "beneath", "id": 715}
+{"label": 0, "score": 0.4611048102378845, "relation": "in the middle of", "id": 716}
+{"label": 1, "score": 0.5474749803543091, "relation": "on", "id": 717}
+{"label": 0, "score": 0.4623349606990814, "relation": "at the edge of", "id": 718}
+{"label": 0, "score": 0.43687528371810913, "relation": "touching", "id": 719}
+{"label": 0, "score": 0.43748605251312256, "relation": "at the back of", "id": 720}
+{"label": 1, "score": 0.3843049108982086, "relation": "at the right side of", "id": 721}
+{"label": 0, "score": 0.3207716941833496, "relation": "at the edge of", "id": 722}
+{"label": 0, "score": 0.48806002736091614, "relation": "on", "id": 723}
+{"label": 0, "score": 0.26193833351135254, "relation": "at the right side of", "id": 724}
+{"label": 0, "score": 0.2971118092536926, "relation": "under", "id": 725}
+{"label": 0, "score": 0.47657111287117004, "relation": "surrounding", "id": 726}
+{"label": 1, "score": 0.3749251365661621, "relation": "beneath", "id": 727}
+{"label": 1, "score": 0.3992162346839905, "relation": "on", "id": 728}
+{"label": 1, "score": 0.4941287040710449, "relation": "above", "id": 729}
+{"label": 0, "score": 0.49258357286453247, "relation": "facing away from", "id": 730}
+{"label": 1, "score": 0.4429076910018921, "relation": "at the left side of", "id": 731}
+{"label": 1, "score": 0.3803648054599762, "relation": "at the edge of", "id": 732}
+{"label": 0, "score": 0.4596010744571686, "relation": "above", "id": 733}
+{"label": 1, "score": 0.387459933757782, "relation": "in the middle of", "id": 734}
+{"label": 1, "score": 0.42884641885757446, "relation": "on", "id": 735}
+{"label": 1, "score": 0.6347002983093262, "relation": "touching", "id": 736}
+{"label": 1, "score": 0.5426737070083618, "relation": "behind", "id": 737}
+{"label": 0, "score": 0.4563788175582886, "relation": "next to", "id": 738}
+{"label": 1, "score": 0.5028868913650513, "relation": "at the left side of", "id": 739}
+{"label": 0, "score": 0.5769393444061279, "relation": "under", "id": 740}
+{"label": 1, "score": 0.47704145312309265, "relation": "above", "id": 741}
+{"label": 0, "score": 0.4659141004085541, "relation": "under", "id": 742}
+{"label": 0, "score": 0.38141730427742004, "relation": "at the left side of", "id": 743}
+{"label": 1, "score": 0.4183395206928253, "relation": "touching", "id": 744}
+{"label": 0, "score": 0.4777664840221405, "relation": "touching", "id": 745}
+{"label": 1, "score": 0.5723908543586731, "relation": "touching", "id": 746}
+{"label": 0, "score": 0.4379999339580536, "relation": "on", "id": 747}
+{"label": 0, "score": 0.36904963850975037, "relation": "beneath", "id": 748}
+{"label": 1, "score": 0.49075600504875183, "relation": "far away from", "id": 749}
+{"label": 0, "score": 0.34877604246139526, "relation": "on top of", "id": 750}
+{"label": 0, "score": 0.4629594087600708, "relation": "enclosed by", "id": 751}
+{"label": 1, "score": 0.36783212423324585, "relation": "contains", "id": 752}
+{"label": 1, "score": 0.4564226567745209, "relation": "behind", "id": 753}
+{"label": 1, "score": 0.48419123888015747, "relation": "at the left side of", "id": 754}
+{"label": 1, "score": 0.49018391966819763, "relation": "beneath", "id": 755}
+{"label": 0, "score": 0.39457228779792786, "relation": "facing", "id": 756}
+{"label": 1, "score": 0.4934476315975189, "relation": "at the left side of", "id": 757}
+{"label": 0, "score": 0.4790581166744232, "relation": "between", "id": 758}
+{"label": 0, "score": 0.38595110177993774, "relation": "touching", "id": 759}
+{"label": 1, "score": 0.36427637934684753, "relation": "on", "id": 760}
+{"label": 0, "score": 0.3278093636035919, "relation": "at the right side of", "id": 761}
+{"label": 1, "score": 0.4479965567588806, "relation": "inside", "id": 762}
+{"label": 0, "score": 0.37517234683036804, "relation": "under", "id": 763}
+{"label": 1, "score": 0.4070134460926056, "relation": "on", "id": 764}
+{"label": 0, "score": 0.3932128846645355, "relation": "part of", "id": 765}
+{"label": 0, "score": 0.5465202927589417, "relation": "over", "id": 766}
+{"label": 1, "score": 0.5388046503067017, "relation": "on", "id": 767}
+{"label": 0, "score": 0.48902544379234314, "relation": "part of", "id": 768}
+{"label": 1, "score": 0.34622013568878174, "relation": "contains", "id": 769}
+{"label": 1, "score": 0.5653515458106995, "relation": "touching", "id": 770}
+{"label": 1, "score": 0.4270678460597992, "relation": "above", "id": 771}
+{"label": 1, "score": 0.34877604246139526, "relation": "on top of", "id": 772}
+{"label": 1, "score": 0.46243464946746826, "relation": "into", "id": 773}
+{"label": 1, "score": 0.4392847418785095, "relation": "on top of", "id": 774}
+{"label": 0, "score": 0.5409905314445496, "relation": "at the left side of", "id": 775}
+{"label": 0, "score": 0.47780317068099976, "relation": "in front of", "id": 776}
+{"label": 0, "score": 0.46641066670417786, "relation": "in front of", "id": 777}
+{"label": 0, "score": 0.23261433839797974, "relation": "above", "id": 778}
+{"label": 0, "score": 0.36070913076400757, "relation": "above", "id": 779}
+{"label": 1, "score": 0.4993976950645447, "relation": "touching", "id": 780}
+{"label": 1, "score": 0.36085057258605957, "relation": "at the right side of", "id": 781}
+{"label": 1, "score": 0.4392847418785095, "relation": "on top of", "id": 782}
+{"label": 1, "score": 0.4191560447216034, "relation": "in", "id": 783}
+{"label": 0, "score": 0.6008133888244629, "relation": "on", "id": 784}
+{"label": 1, "score": 0.44251906871795654, "relation": "under", "id": 785}
+{"label": 0, "score": 0.5434436798095703, "relation": "in front of", "id": 786}
+{"label": 1, "score": 0.5058039426803589, "relation": "near", "id": 787}
+{"label": 0, "score": 0.48711568117141724, "relation": "has as a part", "id": 788}
+{"label": 1, "score": 0.32714301347732544, "relation": "under", "id": 789}
+{"label": 0, "score": 0.4191560447216034, "relation": "in", "id": 790}
+{"label": 1, "score": 0.33730486035346985, "relation": "touching", "id": 791}
+{"label": 1, "score": 0.41185516119003296, "relation": "at the left side of", "id": 792}
+{"label": 0, "score": 0.38828372955322266, "relation": "at the right side of", "id": 793}
+{"label": 0, "score": 0.5070672631263733, "relation": "below", "id": 794}
+{"label": 0, "score": 0.47572261095046997, "relation": "parallel to", "id": 795}
+{"label": 1, "score": 0.5474175810813904, "relation": "outside", "id": 796}
+{"label": 1, "score": 0.3014990985393524, "relation": "at the left side of", "id": 797}
+{"label": 0, "score": 0.6440087556838989, "relation": "part of", "id": 798}
+{"label": 0, "score": 0.5016793012619019, "relation": "behind", "id": 799}
+{"label": 1, "score": 0.43820562958717346, "relation": "under", "id": 800}
+{"label": 1, "score": 0.566103458404541, "relation": "connected to", "id": 801}
+{"label": 1, "score": 0.5067806839942932, "relation": "at the left side of", "id": 802}
+{"label": 1, "score": 0.533812403678894, "relation": "above", "id": 803}
+{"label": 0, "score": 0.5752454996109009, "relation": "facing away from", "id": 804}
+{"label": 1, "score": 0.3881087005138397, "relation": "above", "id": 805}
+{"label": 1, "score": 0.4205482304096222, "relation": "touching", "id": 806}
+{"label": 0, "score": 0.5012386441230774, "relation": "left of", "id": 807}
+{"label": 0, "score": 0.49586647748947144, "relation": "away from", "id": 808}
+{"label": 0, "score": 0.3207716941833496, "relation": "at the edge of", "id": 809}
+{"label": 1, "score": 0.5083019137382507, "relation": "facing", "id": 810}
+{"label": 0, "score": 0.41384437680244446, "relation": "at the right side of", "id": 811}
+{"label": 0, "score": 0.4391956329345703, "relation": "beneath", "id": 812}
+{"label": 1, "score": 0.44686055183410645, "relation": "in", "id": 813}
+{"label": 1, "score": 0.6029289364814758, "relation": "behind", "id": 814}
+{"label": 1, "score": 0.41487449407577515, "relation": "inside", "id": 815}
+{"label": 1, "score": 0.4251873791217804, "relation": "above", "id": 816}
+{"label": 1, "score": 0.5305500626564026, "relation": "beside", "id": 817}
+{"label": 1, "score": 0.6034982204437256, "relation": "left of", "id": 818}
+{"label": 0, "score": 0.5773532390594482, "relation": "on", "id": 819}
+{"label": 1, "score": 0.4165794551372528, "relation": "off", "id": 820}
+{"label": 0, "score": 0.5216373801231384, "relation": "touching", "id": 821}
+{"label": 1, "score": 0.5048825144767761, "relation": "facing", "id": 822}
+{"label": 0, "score": 0.4872862696647644, "relation": "on", "id": 823}
+{"label": 1, "score": 0.507541835308075, "relation": "above", "id": 824}
+{"label": 1, "score": 0.41923078894615173, "relation": "under", "id": 825}
+{"label": 0, "score": 0.43726974725723267, "relation": "against", "id": 826}
+{"label": 0, "score": 0.5819942355155945, "relation": "touching", "id": 827}
+{"label": 0, "score": 0.6135770082473755, "relation": "behind", "id": 828}
+{"label": 1, "score": 0.5073683857917786, "relation": "across from", "id": 829}
+{"label": 1, "score": 0.48223623633384705, "relation": "at the right side of", "id": 830}
+{"label": 1, "score": 0.2845885753631592, "relation": "next to", "id": 831}
+{"label": 0, "score": 0.43093881011009216, "relation": "on top of", "id": 832}
+{"label": 1, "score": 0.3199348747730255, "relation": "on top of", "id": 833}
+{"label": 1, "score": 0.42957910895347595, "relation": "inside", "id": 834}
+{"label": 0, "score": 0.4013693034648895, "relation": "part of", "id": 835}
+{"label": 0, "score": 0.3342071771621704, "relation": "on top of", "id": 836}
+{"label": 0, "score": 0.42035579681396484, "relation": "beside", "id": 837}
+{"label": 1, "score": 0.35071390867233276, "relation": "in front of", "id": 838}
+{"label": 0, "score": 0.4165794551372528, "relation": "off", "id": 839}
+{"label": 0, "score": 0.43637433648109436, "relation": "far from", "id": 840}
+{"label": 0, "score": 0.40754321217536926, "relation": "at the edge of", "id": 841}
+{"label": 1, "score": 0.3483174741268158, "relation": "facing", "id": 842}
+{"label": 1, "score": 0.5080776810646057, "relation": "behind", "id": 843}
+{"label": 0, "score": 0.5390262603759766, "relation": "touching", "id": 844}
+{"label": 1, "score": 0.4913561940193176, "relation": "beside", "id": 845}
+{"label": 1, "score": 0.5704692006111145, "relation": "behind", "id": 846}
+{"label": 1, "score": 0.5524379014968872, "relation": "in", "id": 847}
+{"label": 0, "score": 0.4314791262149811, "relation": "in front of", "id": 848}
+{"label": 1, "score": 0.37758809328079224, "relation": "touching", "id": 849}
+{"label": 0, "score": 0.5508664846420288, "relation": "in front of", "id": 850}
+{"label": 1, "score": 0.40438735485076904, "relation": "under", "id": 851}
+{"label": 0, "score": 0.5507894158363342, "relation": "below", "id": 852}
+{"label": 1, "score": 0.5451755523681641, "relation": "far from", "id": 853}
+{"label": 1, "score": 0.5642500519752502, "relation": "at the right side of", "id": 854}
+{"label": 1, "score": 0.46853241324424744, "relation": "under", "id": 855}
+{"label": 1, "score": 0.4415625333786011, "relation": "next to", "id": 856}
+{"label": 1, "score": 0.448043555021286, "relation": "at the side of", "id": 857}
+{"label": 1, "score": 0.44067955017089844, "relation": "facing", "id": 858}
+{"label": 0, "score": 0.5305500626564026, "relation": "beside", "id": 859}
+{"label": 1, "score": 0.42799800634384155, "relation": "under", "id": 860}
+{"label": 1, "score": 0.5250306129455566, "relation": "far away from", "id": 861}
+{"label": 0, "score": 0.3861021399497986, "relation": "far from", "id": 862}
+{"label": 0, "score": 0.4424614906311035, "relation": "over", "id": 863}
+{"label": 0, "score": 0.4380384087562561, "relation": "far away from", "id": 864}
+{"label": 1, "score": 0.4272121489048004, "relation": "under", "id": 865}
+{"label": 0, "score": 0.41780099272727966, "relation": "touching", "id": 866}
+{"label": 1, "score": 0.31643956899642944, "relation": "below", "id": 867}
+{"label": 1, "score": 0.5769393444061279, "relation": "under", "id": 868}
+{"label": 1, "score": 0.5095882415771484, "relation": "right of", "id": 869}
+{"label": 0, "score": 0.40656617283821106, "relation": "touching", "id": 870}
+{"label": 1, "score": 0.2631305456161499, "relation": "over", "id": 871}
+{"label": 0, "score": 0.5987134575843811, "relation": "near", "id": 872}
+{"label": 1, "score": 0.3342071771621704, "relation": "on top of", "id": 873}
+{"label": 1, "score": 0.6584641933441162, "relation": "touching", "id": 874}
+{"label": 1, "score": 0.38356733322143555, "relation": "beneath", "id": 875}
+{"label": 1, "score": 0.3925003111362457, "relation": "contains", "id": 876}
+{"label": 1, "score": 0.40953096747398376, "relation": "next to", "id": 877}
+{"label": 0, "score": 0.4230780303478241, "relation": "above", "id": 878}
+{"label": 1, "score": 0.4115547835826874, "relation": "across", "id": 879}
+{"label": 1, "score": 0.5615761876106262, "relation": "touching", "id": 880}
+{"label": 1, "score": 0.37231674790382385, "relation": "touching", "id": 881}
+{"label": 0, "score": 0.5181700587272644, "relation": "behind", "id": 882}
+{"label": 1, "score": 0.411749005317688, "relation": "close to", "id": 883}
+{"label": 1, "score": 0.43939197063446045, "relation": "surrounding", "id": 884}
+{"label": 0, "score": 0.5215250849723816, "relation": "facing", "id": 885}
+{"label": 0, "score": 0.4548395276069641, "relation": "contains", "id": 886}
+{"label": 0, "score": 0.2963024973869324, "relation": "next to", "id": 887}
+{"label": 1, "score": 0.4495704770088196, "relation": "inside", "id": 888}
+{"label": 1, "score": 0.25627949833869934, "relation": "behind", "id": 889}
+{"label": 0, "score": 0.30057600140571594, "relation": "at the left side of", "id": 890}
+{"label": 0, "score": 0.46741482615470886, "relation": "below", "id": 891}
+{"label": 0, "score": 0.5020219683647156, "relation": "in front of", "id": 892}
+{"label": 0, "score": 0.4423513412475586, "relation": "above", "id": 893}
+{"label": 1, "score": 0.4687157869338989, "relation": "right of", "id": 894}
+{"label": 0, "score": 0.4233318567276001, "relation": "touching", "id": 895}
+{"label": 1, "score": 0.4445571303367615, "relation": "near", "id": 896}
+{"label": 0, "score": 0.4780814051628113, "relation": "at the right side of", "id": 897}
+{"label": 1, "score": 0.3992162346839905, "relation": "on", "id": 898}
+{"label": 0, "score": 0.32931017875671387, "relation": "behind", "id": 899}
+{"label": 0, "score": 0.4062948524951935, "relation": "part of", "id": 900}
+{"label": 0, "score": 0.231340229511261, "relation": "at the left side of", "id": 901}
+{"label": 0, "score": 0.49790072441101074, "relation": "beneath", "id": 902}
+{"label": 0, "score": 0.41908207535743713, "relation": "near", "id": 903}
+{"label": 1, "score": 0.43687528371810913, "relation": "touching", "id": 904}
+{"label": 1, "score": 0.4991927742958069, "relation": "touching", "id": 905}
+{"label": 0, "score": 0.5615761876106262, "relation": "touching", "id": 906}
+{"label": 1, "score": 0.4160599410533905, "relation": "under", "id": 907}
+{"label": 1, "score": 0.5077171921730042, "relation": "over", "id": 908}
+{"label": 0, "score": 0.4380384087562561, "relation": "far away from", "id": 909}
+{"label": 0, "score": 0.5748226046562195, "relation": "at the right side of", "id": 910}
+{"label": 1, "score": 0.43197521567344666, "relation": "in", "id": 911}
+{"label": 1, "score": 0.5584078431129456, "relation": "right of", "id": 912}
+{"label": 1, "score": 0.44383716583251953, "relation": "beside", "id": 913}
+{"label": 1, "score": 0.42875975370407104, "relation": "under", "id": 914}
+{"label": 0, "score": 0.4257296919822693, "relation": "beneath", "id": 915}
+{"label": 1, "score": 0.598453164100647, "relation": "above", "id": 916}
+{"label": 1, "score": 0.601713240146637, "relation": "touching", "id": 917}
+{"label": 1, "score": 0.47077757120132446, "relation": "inside", "id": 918}
+{"label": 1, "score": 0.47393885254859924, "relation": "behind", "id": 919}
+{"label": 0, "score": 0.5391526222229004, "relation": "behind", "id": 920}
+{"label": 1, "score": 0.23261433839797974, "relation": "above", "id": 921}
+{"label": 1, "score": 0.6378026604652405, "relation": "next to", "id": 922}
+{"label": 1, "score": 0.48058873414993286, "relation": "under", "id": 923}
+{"label": 1, "score": 0.4664325714111328, "relation": "at the right side of", "id": 924}
+{"label": 1, "score": 0.5184697508811951, "relation": "in front of", "id": 925}
+{"label": 0, "score": 0.26112115383148193, "relation": "under", "id": 926}
+{"label": 1, "score": 0.3865477442741394, "relation": "surrounding", "id": 927}
+{"label": 1, "score": 0.24355919659137726, "relation": "over", "id": 928}
+{"label": 1, "score": 0.5399308800697327, "relation": "behind", "id": 929}
+{"label": 1, "score": 0.5570454001426697, "relation": "alongside", "id": 930}
+{"label": 0, "score": 0.538180947303772, "relation": "far away from", "id": 931}
+{"label": 0, "score": 0.37608498334884644, "relation": "in front of", "id": 932}
+{"label": 1, "score": 0.5192500948905945, "relation": "far from", "id": 933}
+{"label": 0, "score": 0.35046306252479553, "relation": "at the edge of", "id": 934}
+{"label": 1, "score": 0.44291549921035767, "relation": "on top of", "id": 935}
+{"label": 0, "score": 0.6472034454345703, "relation": "below", "id": 936}
+{"label": 1, "score": 0.5765582323074341, "relation": "at the left side of", "id": 937}
+{"label": 0, "score": 0.6176494359970093, "relation": "contains", "id": 938}
+{"label": 1, "score": 0.44280847907066345, "relation": "next to", "id": 939}
+{"label": 1, "score": 0.42492055892944336, "relation": "over", "id": 940}
+{"label": 1, "score": 0.4086672365665436, "relation": "on top of", "id": 941}
+{"label": 1, "score": 0.5126190185546875, "relation": "surrounding", "id": 942}
+{"label": 0, "score": 0.4179457128047943, "relation": "contains", "id": 943}
+{"label": 1, "score": 0.5420894622802734, "relation": "next to", "id": 944}
+{"label": 1, "score": 0.4936937391757965, "relation": "parallel to", "id": 945}
+{"label": 0, "score": 0.4391372501850128, "relation": "at", "id": 946}
+{"label": 0, "score": 0.47085025906562805, "relation": "at the edge of", "id": 947}
+{"label": 1, "score": 0.49103450775146484, "relation": "into", "id": 948}
+{"label": 1, "score": 0.41569408774375916, "relation": "beneath", "id": 949}
+{"label": 0, "score": 0.1912083476781845, "relation": "behind", "id": 950}
+{"label": 1, "score": 0.40656617283821106, "relation": "touching", "id": 951}
+{"label": 0, "score": 0.549028217792511, "relation": "below", "id": 952}
+{"label": 1, "score": 0.2628234624862671, "relation": "left of", "id": 953}
+{"label": 1, "score": 0.41694176197052, "relation": "above", "id": 954}
+{"label": 0, "score": 0.381069153547287, "relation": "at the left side of", "id": 955}
+{"label": 0, "score": 0.5541123151779175, "relation": "touching", "id": 956}
+{"label": 0, "score": 0.4600672125816345, "relation": "touching", "id": 957}
+{"label": 1, "score": 0.5073036551475525, "relation": "past", "id": 958}
+{"label": 1, "score": 0.4476189613342285, "relation": "in the middle of", "id": 959}
+{"label": 0, "score": 0.44128766655921936, "relation": "surrounding", "id": 960}
+{"label": 0, "score": 0.5272391438484192, "relation": "in front of", "id": 961}
+{"label": 1, "score": 0.49488356709480286, "relation": "on top of", "id": 962}
+{"label": 1, "score": 0.36316099762916565, "relation": "adjacent to", "id": 963}
+{"label": 1, "score": 0.5663702487945557, "relation": "away from", "id": 964}
+{"label": 0, "score": 0.4623349606990814, "relation": "at the edge of", "id": 965}
+{"label": 0, "score": 0.49664342403411865, "relation": "in front of", "id": 966}
+{"label": 0, "score": 0.4455420970916748, "relation": "ahead of", "id": 967}
+{"label": 0, "score": 0.5851724147796631, "relation": "close to", "id": 968}
+{"label": 1, "score": 0.476948082447052, "relation": "on top of", "id": 969}
+{"label": 0, "score": 0.3911353349685669, "relation": "in", "id": 970}
+{"label": 0, "score": 0.38552984595298767, "relation": "in front of", "id": 971}
+{"label": 0, "score": 0.5001310110092163, "relation": "in front of", "id": 972}
+{"label": 1, "score": 0.4295230805873871, "relation": "under", "id": 973}
+{"label": 0, "score": 0.3851008117198944, "relation": "off", "id": 974}
+{"label": 0, "score": 0.3632288873195648, "relation": "on", "id": 975}
+{"label": 0, "score": 0.3925003111362457, "relation": "contains", "id": 976}
+{"label": 0, "score": 0.6381213665008545, "relation": "on", "id": 977}
+{"label": 0, "score": 0.6274915933609009, "relation": "facing", "id": 978}
+{"label": 1, "score": 0.42422419786453247, "relation": "beside", "id": 979}
+{"label": 0, "score": 0.2652474641799927, "relation": "part of", "id": 980}
+{"label": 1, "score": 0.4545438289642334, "relation": "close to", "id": 981}
+{"label": 1, "score": 0.32714301347732544, "relation": "under", "id": 982}
+{"label": 1, "score": 0.4875231385231018, "relation": "at the edge of", "id": 983}
+{"label": 1, "score": 0.4666920006275177, "relation": "on top of", "id": 984}
+{"label": 0, "score": 0.4824749827384949, "relation": "perpendicular to", "id": 985}
+{"label": 1, "score": 0.4491526186466217, "relation": "inside", "id": 986}
+{"label": 0, "score": 0.39103925228118896, "relation": "away from", "id": 987}
+{"label": 0, "score": 0.46257922053337097, "relation": "at the right side of", "id": 988}
+{"label": 1, "score": 0.5393091440200806, "relation": "touching", "id": 989}
+{"label": 1, "score": 0.5462462902069092, "relation": "right of", "id": 990}
+{"label": 1, "score": 0.34929582476615906, "relation": "in front of", "id": 991}
+{"label": 0, "score": 0.48806002736091614, "relation": "on", "id": 992}
+{"label": 1, "score": 0.4228062033653259, "relation": "in", "id": 993}
+{"label": 0, "score": 0.5371546745300293, "relation": "behind", "id": 994}
+{"label": 1, "score": 0.419676274061203, "relation": "detached from", "id": 995}
+{"label": 0, "score": 0.5173547267913818, "relation": "far from", "id": 996}
+{"label": 1, "score": 0.5390262603759766, "relation": "touching", "id": 997}
+{"label": 0, "score": 0.5701667666435242, "relation": "close to", "id": 998}
+{"label": 1, "score": 0.5112114548683167, "relation": "facing", "id": 999}
+{"label": 1, "score": 0.35046306252479553, "relation": "at the edge of", "id": 1000}
+{"label": 0, "score": 0.4598384499549866, "relation": "away from", "id": 1001}
+{"label": 0, "score": 0.47448787093162537, "relation": "beneath", "id": 1002}
+{"label": 1, "score": 0.48926371335983276, "relation": "facing", "id": 1003}
+{"label": 0, "score": 0.6388863921165466, "relation": "across", "id": 1004}
+{"label": 1, "score": 0.438177227973938, "relation": "at the left side of", "id": 1005}
+{"label": 0, "score": 0.5140349268913269, "relation": "in front of", "id": 1006}
+{"label": 0, "score": 0.34551921486854553, "relation": "in", "id": 1007}
+{"label": 0, "score": 0.6616256237030029, "relation": "inside", "id": 1008}
+{"label": 0, "score": 0.521152913570404, "relation": "facing", "id": 1009}
+{"label": 0, "score": 0.5260060429573059, "relation": "above", "id": 1010}
+{"label": 1, "score": 0.5252583026885986, "relation": "below", "id": 1011}

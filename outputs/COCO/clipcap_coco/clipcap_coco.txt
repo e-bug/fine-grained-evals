@@ -1,0 +1,1 @@
+{"test_txt_r1": 8.08, "test_txt_r5": 20.26, "test_txt_r10": 31.06, "test_txt_r_mean": 19.8, "test_img_r1": 38.4406237504998, "test_img_r5": 66.42542982806877, "test_img_r10": 77.28108756497402, "test_img_r_mean": 60.71571371451419, "test_r_mean": 40.257856857257096}

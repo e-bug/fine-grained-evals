@@ -1,0 +1,30 @@
+train_file: ['/workdir/data/ALBEF/data/flickr30k_train.json']
+val_file: '/workdir/data/ALBEF/data/flickr30k_val.json'
+test_file: '/workdir/data/ALBEF/data/flickr30k_test.json'
+image_root: '/workdir/data/flickr30k/images'
+
+## Vision Encoder
+vision_config: 'configs_ours/config_swinB_224.json'
+
+use_clip_vit: False
+#image_res: 384
+#patch_size: 16
+
+use_swin: True
+image_res: 224
+patch_size: 32
+
+## Text Encoder
+use_roberta: False
+text_config: 'configs/config_bert.json'
+text_encoder: '/workdir/checkpoints/backbones/huggingface/bert-base-uncased'
+
+## Training
+batch_size_train: 20
+batch_size_test: 12
+batch_size_test_text: 64
+max_tokens: 40
+embed_dim: 256
+temp: 0.07
+k_test: 128
+

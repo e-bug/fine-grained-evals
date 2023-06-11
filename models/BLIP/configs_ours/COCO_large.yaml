@@ -1,0 +1,31 @@
+train_file: '/workdir/data/ALBEF/data/coco_train.json'
+val_file: '/workdir/data/ALBEF/data/coco_val.json'
+test_file: '/workdir/data/ALBEF/data/coco_test.json'
+image_root: '/workdir/data/mscoco/images'
+dataset: 'custom_itr'
+
+bert_config: 'configs/config_bert.json'
+
+vit: 'large'
+vit_grad_ckpt: False
+vit_ckpt_layer: 0
+image_size: 224
+
+batch_size_train: 32
+batch_size_test: 64
+
+queue_size: 57600
+momentum: 0.995
+vision_width: 768
+embed_dim: 256
+temp: 0.07
+k_test: 256
+negative_all_rank: False
+
+alpha: 0.4
+distill: True
+warm_up: True
+
+optimizer: {opt: adamW, lr: 1e-5, weight_decay: 0.05}
+schedular: {sched: cosine, lr: 1e-5, epochs: 5, min_lr: 1e-6, decay_rate: 1, warmup_lr: 1e-5, warmup_epochs: 1, cooldown_epochs: 0}
+

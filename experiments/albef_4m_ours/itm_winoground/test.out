@@ -1,0 +1,240 @@
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_00
+Start evaluating
+Evaluation time 0:05:40
+### Time 0:05:40
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_01
+Start evaluating
+Evaluation time 0:05:40
+### Time 0:05:40
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_02
+Start evaluating
+Evaluation time 0:05:39
+### Time 0:05:39
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_03
+Start evaluating
+Evaluation time 0:05:38
+### Time 0:05:38
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_04
+Start evaluating
+Evaluation time 0:05:34
+### Time 0:05:34
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_05
+Start evaluating
+Evaluation time 0:05:39
+### Time 0:05:39
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_06
+Start evaluating
+Evaluation time 0:05:42
+### Time 0:05:42
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_07
+Start evaluating
+Evaluation time 0:05:37
+### Time 0:05:37
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_08
+Start evaluating
+Evaluation time 0:05:37
+### Time 0:05:37
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_09
+Start evaluating
+Evaluation time 0:05:36
+### Time 0:05:36
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_10
+Start evaluating
+Evaluation time 0:05:40
+### Time 0:05:40
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_11
+Start evaluating
+Evaluation time 0:05:38
+### Time 0:05:38
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_12
+Start evaluating
+Evaluation time 0:05:40
+### Time 0:05:40
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_13
+Start evaluating
+Evaluation time 0:05:40
+### Time 0:05:40
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_14
+Start evaluating
+Evaluation time 0:05:39
+### Time 0:05:39
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_15
+Start evaluating
+Evaluation time 0:05:34
+### Time 0:05:34
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_16
+Start evaluating
+Evaluation time 0:05:39
+### Time 0:05:39
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_17
+Start evaluating
+Evaluation time 0:05:37
+### Time 0:05:37
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_18
+Start evaluating
+Evaluation time 0:05:37
+### Time 0:05:37
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_19
+Start evaluating
+Evaluation time 0:05:37
+### Time 0:05:37
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_20
+Start evaluating
+Evaluation time 0:05:41
+### Time 0:05:41
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_21
+Start evaluating
+Evaluation time 0:05:38
+### Time 0:05:38
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_22
+Start evaluating
+Evaluation time 0:05:38
+### Time 0:05:38
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_23
+Start evaluating
+Evaluation time 0:05:39
+### Time 0:05:39
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_24
+Start evaluating
+Evaluation time 0:05:38
+### Time 0:05:38
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_25
+Start evaluating
+Evaluation time 0:05:41
+### Time 0:05:41
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_26
+Start evaluating
+Evaluation time 0:05:36
+### Time 0:05:36
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_27
+Start evaluating
+Evaluation time 0:05:37
+### Time 0:05:37
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_28
+Start evaluating
+Evaluation time 0:05:37
+### Time 0:05:37
+Creating model
+_IncompatibleKeys(missing_keys=[], unexpected_keys=['head.weight', 'head.bias'])
+### Total Params:  209891645
+Creating Winoground dataset
+### output_dir,  /home/pmh864/projects/dm-fine/outputs/Matching_winoground/albef_4m_ours_29
+Start evaluating
+Evaluation time 0:05:40
+### Time 0:05:40
